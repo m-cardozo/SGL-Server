@@ -1,0 +1,173 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rodrigo",
+      "lastName": "Hernandez",
+      "document": "47780925",
+      "phone": "099215333",
+      "position": "Chofer",
+      "paymentPeriod": "Mensual",
+      "admissionDate": "2020-01-01",
+      "egressDate": ""
+    },
+    {
+      "id": 2,
+      "name": "Santiago",
+      "lastName": "Robaina",
+      "document": "47457220",
+      "phone": "095221423",
+      "position": "Chofer",
+      "paymentPeriod": "Mensual",
+      "admissionDate": "2020-01-01",
+      "egressDate": "2020-05-31"
+    },
+    {
+      "id": 3,
+      "name": "Martin",
+      "lastName": "Lanz",
+      "document": "43251152",
+      "phone": "092115265",
+      "position": "Operativo",
+      "paymentPeriod": "Semanal",
+      "admissionDate": "2020-01-01",
+      "egressDate": ""
+    },
+    {
+      "id": 4,
+      "name": "Laura",
+      "lastName": "Duran",
+      "document": "44254452",
+      "phone": "092457865",
+      "position": "Administrativo",
+      "paymentPeriod": "Mensual",
+      "admissionDate": "2020-01-01",
+      "egressDate": ""
+    },
+    {
+      "id": 5,
+      "name": "Humberto",
+      "lastName": "Garcia",
+      "document": "35726521",
+      "phone": "098505023",
+      "position": "Mecanico",
+      "paymentPeriod": "Jornal",
+      "admissionDate": "2020-01-01",
+      "egressDate": ""
+    }
+  ],
+  "localities": [
+    {
+      "id": 1,
+      "city": "Montevideo",
+      "departament": "Montevideo",
+      "country": "Uruguay"
+    },
+    {
+      "id": 2,
+      "city": "Juan Lacaze",
+      "departament": "Colonia",
+      "country": "Uruguay"
+    },
+    {
+      "id": 3,
+      "city": "Durazno",
+      "departament": "Durazno",
+      "country": "Uruguay"
+    },
+    {
+      "id": 4,
+      "city": "Sarandí Grande",
+      "departament": "Florida",
+      "country": "Uruguay"
+    },
+    {
+      "id": 5,
+      "city": "La Falda",
+      "departament": "Cordoba",
+      "country": "Argentina"
+    },
+    {
+      "id": 6,
+      "city": "Mendoza",
+      "departament": "Mendoza",
+      "country": "Argentina"
+    },
+    {
+      "id": 7,
+      "city": "San Ramon",
+      "departament": "Canelones",
+      "country": "Uruguay"
+    },
+    {
+      "id": 8,
+      "city": "Bella Union",
+      "departament": "Artigas",
+      "country": "Uruguay"
+    },
+    {
+      "id": 9,
+      "city": "Paso de Los Toros",
+      "departament": "Tacuarembó",
+      "country": "Uruguay"
+    },
+    {
+      "id": 10,
+      "city": "La Barra",
+      "departament": "Maldonado",
+      "country": "Uruguay"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "registration": "OTP 2552",
+      "mark": "Scania",
+      "model": "G380",
+      "type": "Tracto Camion",
+      "enabled": "SI"
+    },
+    {
+      "id": 2,
+      "registration": "NTP 1991",
+      "mark": "Scania",
+      "model": "R450",
+      "type": "Tracto Camion",
+      "enabled": "SI"
+    },
+    {
+      "id": 3,
+      "registration": "ITP 1212",
+      "mark": "Scania",
+      "model": "G360",
+      "type": "Tracto Camion",
+      "enabled": "SI"
+    },
+    {
+      "id": 4,
+      "registration": "NTP 3525",
+      "mark": "Scania",
+      "model": "R410",
+      "type": "Tracto Camion",
+      "enabled": "NO"
+    },
+    {
+      "id": 5,
+      "registration": "OTP 2114",
+      "mark": "Scania",
+      "model": "G500",
+      "type": "Tracto Camion",
+      "enabled": "SI"
+    },
+    {
+      "id": 6,
+      "registration": "JTP 1455",
+      "mark": "Scania",
+      "model": "G500",
+      "type": "Tracto Camion",
+      "enabled": "SI"
+    }
+  ],
+  "customers": [],
+  "providers": []
+}
